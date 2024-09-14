@@ -3,7 +3,7 @@
 <p align="start"> 💻 Dei os meus primeiros passos como estudante de T.I em fevereiro de 2024, através de um projeto da ONE em parceria com a Alura. Nesse curso, tive meu primeiro contato com HTML, CSS e Javascript - as corriqueiras primeiras tecnologias de grande parte dos estudantes. No entanto, comecei a me apaixonar de verdade pela programação ao entrar no curso de Informática para a Internet, na ETEC de Praia Grande, onde tive contato mais direto com o conceito de lógica de programação.</p>
 <p align="start">📚 Adoro explorar funcionalidades do Javascript e estou estudando Orientação a Objetos através do C#. Também tive contato com alguns conceitos de C++ e desenvolvi um Jogo da Velha executável em console com a linguagem.</p>
 <p align="start">⭐ Amo conversar sobre cinema, música e literatura. Um dos meus hobbies é escrever contos e crônicas e, em meu tempo livre, estou sempre usando fones de ouvido. Além disso, sou bastante curioso e amo explorar novos conceitos de programação. </p>
-<br><br><br><br>
+<br><br><br>
 <table align="center">
   <tr>
     <th>LINKTREE</th>
@@ -41,9 +41,9 @@
       </td>
     </tr>
 </table>
-<br><br><br><br>
+<br><br><br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filhodepeterpan&layout=compact" alt="Top Langs" width="500">
 </div>
 <br><br><br><br>
-<p align="center">Obrigado pela visita. Vamos nos seguir! :) 😊</p>
+<p align="center">Obrigado pela visita. Vamos nos seguir! 😊</p>
