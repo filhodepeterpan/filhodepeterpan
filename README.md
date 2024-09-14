@@ -43,7 +43,7 @@
 </table>
 <br><br><br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filhodepeterpan&layout=compact" alt="Top Langs" width="500">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filhodepeterpan&layout=compact&theme=radical" alt="Top Langs" width="500">
 </div>
 <br><br><br><br>
 <p align="center">Obrigado pela visita. Vamos nos seguir! 😊</p>
