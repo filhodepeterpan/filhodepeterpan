@@ -10,7 +10,7 @@
   </tr>
     <tr>
       <td>
-        <a href="https://www.linkedin.com/in/seu-perfil">
+        <a href="https://www.linkedin.com/douglassoaressantos">
           <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30"/>
         </a>
          &nbsp;&nbsp;LinkedIn
