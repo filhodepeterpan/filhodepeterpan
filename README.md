@@ -1,7 +1,7 @@
 <h2 align="center">Olá, meu nome é Douglas 👋</h2>
 <br>
 <div align="center">
-  <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zhncqke2hrpqhewng3btkf7h/bafkreigai6alvxgdrifv7fbzce273l763tl76gcuyq6khpwtpharh4ggfu@jpeg" width="500">
+  <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zhncqke2hrpqhewng3btkf7h/bafkreigai6alvxgdrifv7fbzce273l763tl76gcuyq6khpwtpharh4ggfu@jpeg" width="300">
 </div>
 <br>
 <p align="start"> 💻 Dei os meus primeiros passos como estudante de T.I em fevereiro de 2024, através de um projeto da ONE em parceria com a Alura. Nesse curso, tive meu primeiro contato com HTML, CSS e Javascript - as corriqueiras primeiras tecnologias de grande parte dos estudantes. No entanto, comecei a me apaixonar de verdade pela programação ao entrar no curso de Informática para a Internet, na ETEC de Praia Grande, onde tive contato mais direto com o conceito de lógica de programação.</p>
