@@ -1,4 +1,6 @@
-<h2 align="center">Olá, meu nome é Douglas 👋</h2>
+<link href="https://fonts.googleapis.com/css2?family=Monoton&display=swap" rel="stylesheet">
+
+<h1 align="center" style="font-family: Monoton;">Olá, meu nome é Douglas 👋</h1>
 <br>
 <div align="center">
   <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zhncqke2hrpqhewng3btkf7h/bafkreigai6alvxgdrifv7fbzce273l763tl76gcuyq6khpwtpharh4ggfu@jpeg" width="300">
