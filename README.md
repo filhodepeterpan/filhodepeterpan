@@ -52,4 +52,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filhodepeterpan&layout=pie&theme=radical" alt="Top Langs" width="350">
 </div>
 <br><br><br><br>
-<p align="center">Obrigado pela visita. Vamos nos seguir! 😊</p>
+<h2 align="center">Obrigado pela visita. Vamos nos seguir! 😊</h2>
