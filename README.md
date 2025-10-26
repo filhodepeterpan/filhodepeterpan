@@ -176,7 +176,7 @@ GitFolio:end -->
 </table>
 <br><br><br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filhodepeterpan&layout=pie&theme=radical" alt="Top Langs" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filhodepeterpan&layout=pie&theme=radical&hide=HTML,CSS" alt="Top Langs" width="350">
 </div>
 
 <br><br><br><br>
