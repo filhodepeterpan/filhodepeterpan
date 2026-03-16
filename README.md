@@ -6,9 +6,26 @@
   <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zhncqke2hrpqhewng3btkf7h/bafkreigai6alvxgdrifv7fbzce273l763tl76gcuyq6khpwtpharh4ggfu@jpeg" width="300">
 </div>
 <br>
-<p align="start"> 💻 Dei os meus primeiros passos como estudante de T.I em fevereiro de 2024, através de um projeto da ONE em parceria com a Alura. Nesse curso, tive meu primeiro contato com HTML, CSS e Javascript - as corriqueiras primeiras tecnologias de grande parte dos estudantes. No entanto, comecei a me apaixonar de verdade pela programação ao entrar no curso de Informática para a Internet, na ETEC de Praia Grande, onde tive contato mais direto com o conceito de lógica de programação. Atualmente estou cursando Desenvolvimento de Software Multiplataforma na FATEC Praia Grande.</p>
-<p align="start">📚 Adoro explorar funcionalidades do Javascript/Angular e estou estudando Orientação a Objetos através do C#. Também tive contato com alguns conceitos de C++ e desenvolvi um Jogo da Velha executável em console com a linguagem. Encaro linguagens como ferramentas para podermos fazer coisas incríveis, então estou sempre disposto a aprender qualquer uma que eu precise.</p>
-<p align="start">⭐ Amo conversar sobre cinema, música e literatura. Um dos meus hobbies é escrever contos e crônicas e, em meu tempo livre, estou sempre usando fones de ouvido. Além disso, sou bastante curioso e amo explorar novos conceitos de programação. </p>
+🚀 Tecnologias
+
+- JavaScript
+- Angular
+- C#
+- C++
+- Python
+- HTML
+- CSS
+  
+💻 Dei meus primeiros passos em T.I em fevereiro de 2024, através de um projeto da ONE em parceria com a Alura. Nesse curso tive meu primeiro contato com HTML, CSS e JavaScript — tecnologias que são o ponto de partida para muitos estudantes.
+
+Passei a me interessar mais profundamente por programação ao ingressar no curso de Informática para Internet na ETEC de Praia Grande, onde tive contato direto com lógica de programação. Atualmente curso Desenvolvimento de Software Multiplataforma na FATEC Praia Grande.
+
+📚 Gosto de explorar o ecossistema de JavaScript e Angular e estou estudando Orientação a Objetos com C#. Também tive contato com C++ e desenvolvi um Jogo da Velha executável em console com a linguagem.
+
+Acredito que linguagens são ferramentas para construirmos coisas incríveis, então estou sempre disposto a aprender novas tecnologias quando necessário.
+
+⭐ Fora da programação, gosto muito de conversar sobre cinema, música e literatura. Um dos meus hobbies é escrever contos e crônicas e, no tempo livre, quase sempre estou com fones de ouvido ouvindo algum indie rock, alternativo ou mpb. Também sou bastante curioso e gosto de descobrir novos conceitos dentro desse mundo gigante da programação.
+
 
 Acesse meu portfólio em: 
 <a href="https://gitfollio.vercel.app/filhodepeterpan"> 🔗
